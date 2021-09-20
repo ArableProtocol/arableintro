@@ -1,7 +1,9 @@
 # Arable Introduction
 
-Arable is a farmable synthetic asset generation protocol that brings various chain's growing assets on a single chain.
+Arable is a farmable synthetic assets issurance protocol to bring various chain's growing assets on a single chain.
 Users are not needed to cross the bridge for higher APY yield farms but just use a single interface and single chain to farm all chain's assets.
-Users can farm Cosmos ecosystem, Polkadot ecosystem, Solana ecosystem, AVAX and all the other chains' assets on Polygon network with Arable.
+Users can farm Cosmos, Polkadot, Solana ecosystem, Polygon, AVAX and all the other chains' assets on Avalanche network with Arable.
 
-The crypto services who runs the validator service for staking projects can come to the Arable network and run the yield farming service as well.
+The collateral providers (aka. minters or stakers) are counterparties of the farming and exchange.
+
+Protocol's goal is to provide optimized on-chain UX for yield farmers.
