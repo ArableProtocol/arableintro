@@ -29,7 +29,7 @@ Protocol's goal is to provide optimized on-chain user experience for yield farme
 
 ## Benefits
 
+- MVP is mostly ready and there's a good condition for users' interaction
+- Foundation token allocation
 - Open for both full time and part time
 - Work remotely
-- Huge token bonus allocation
-- MVP is mostly ready and there's a good condition for users' interaction
