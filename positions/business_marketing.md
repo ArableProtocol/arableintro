@@ -13,13 +13,13 @@ Protocol's goal is to provide optimized on-chain user experience for yield farme
 
 ### Scope
 
+- Business growth
+- Building partnerships
+- Interaction with VCs
+- AMAs
 - Influencer marketing
 - Social media campaigns
-- Interaction with VCs
 - Listings on DeFi protocols
-- Building partnership with other DeFi protocols
-- AMAs
-- Business growth
 
 ### Skills & Knowledge:
 
