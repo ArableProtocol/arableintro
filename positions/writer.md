@@ -23,10 +23,8 @@ Protocol's goal is to provide optimized on-chain user experience for yield farme
 - Medium, twitter, reddit
 - Google docs
 - Previous experience working on DeFi protocols
-
-### Nice to have:
-
-- Awareness of existing DeFi protocols
+- Quick learning skill
+- Continuous learning habbit
 
 ## Benefits
 
