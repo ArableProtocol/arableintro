@@ -23,6 +23,7 @@ Protocol's goal is to provide optimized on-chain user experience for yield farme
 
 ### Skills & Knowledge:
 
+- Existing connection with DeFi protocols and founders
 - Good understanding of DeFi industry
 - High financial background
 - Familiarity with lending protocols, staking and liquidity mining services
