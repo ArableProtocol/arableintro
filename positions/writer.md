@@ -22,6 +22,7 @@ Protocol's goal is to provide optimized on-chain user experience for yield farme
 - Article writing
 - Medium, twitter, reddit
 - Google docs
+- Previous experience working on DeFi protocols
 
 ### Nice to have:
 
