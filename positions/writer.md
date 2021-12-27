@@ -1,4 +1,4 @@
-# Senior Full Stack Engineer
+# Highly technical writer
 
 ## About Arable
 
@@ -13,20 +13,19 @@ Protocol's goal is to provide optimized on-chain user experience for yield farme
 
 ### Scope
 
-- Production-ready Dapp frontend development
-- Node.js script development to run by validators
-- Participate in product architecture discussion
-- CI / CD
-
-Note: MVP frontend prototype is in progress and we want a person who can lead the product.
+- Technical writing to introduce Arable to audience
+- Business writings for legal documents
 
 ### Skills & Knowledge:
 
-- Web3
-- React / Javascript / Graphql / TheGraph / Tailwind
-- Best practices in security and standards
+- Understanding of DeFi protocols deeply
+- Article writing
+- Medium, twitter, reddit
+- Google docs
 
-Note: production experience in a DeFi project is must. (Ideally lending protocols or synthetic asset protocols development experience)
+### Nice to have:
+
+- Awareness of existing DeFi protocols
 
 ## Benefits
 
