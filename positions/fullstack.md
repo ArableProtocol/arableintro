@@ -23,7 +23,7 @@ Note: MVP frontend prototype is in progress and we want a person who can lead th
 ### Skills & Knowledge:
 
 - Web3
-- React / Javascript / Graphql / TheGraph / Tailwind
+- React / Javascript / PostgreSQL / Graphql / TheGraph / Tailwind
 - Best practices in security and standards
 
 Note: production experience in a DeFi project is must. (Ideally lending protocols or synthetic asset protocols development experience)
